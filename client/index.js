@@ -116,7 +116,7 @@ function setup_dom() {
 }
 
 function setup_translation() {
-    let selectedLanguage = "en";
+    let selectedLanguage = "fr";
     switch(navigator.language) {
     case "zh-TW":
         selectedLanguage = "zh_tw";
